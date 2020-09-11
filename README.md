@@ -1,3 +1,12 @@
+
+## build web skype
+
+
+`nativefier "https://web.skype.com" --user-agent "Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87" --internal-urls ".*(live|skype)\.(com).*" \`
+
+
+
+
 # Nativefier
 
 [![Build Status](https://travis-ci.org/jiahaog/nativefier.svg)](https://travis-ci.org/jiahaog/nativefier)
